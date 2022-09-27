@@ -1,0 +1,1 @@
+console.log('Prophet Muhammad ﷺ said in Sahih Bukhari & Sahih Muslim, "There are two words which are light on the tongue, heavy on the scale, and loved by the Most Merciful: SubhanAllahi wa bihamdi, SubhanAllahi al-azeem (Glorified is Allah and praised is He, Glorified is Allah the Most Great)".');
