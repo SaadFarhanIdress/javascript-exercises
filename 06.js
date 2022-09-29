@@ -1,4 +1,3 @@
-console.log(5 + 3);
-console.log(10 - 2);
-console.log(2 * 4);
-console.log(16 / 2);
+const person = "    \t     John  \n ";
+
+console.log(person.trim());

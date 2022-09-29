@@ -1,8 +1,3 @@
-var person = "john";
+const person = "John";
 
-console.log(person.toLowerCase());
-console.log(person.toUpperCase());
-
-var titleCase = person[0].toUpperCase() + person.slice(1);
-
-console.log(titleCase);
+console.log(`Hello ${person}, would you like to learn some Python today ?`)
